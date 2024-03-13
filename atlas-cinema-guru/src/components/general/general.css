@@ -1,0 +1,39 @@
+/* Style for SelectInput */
+.select-input {
+    margin-bottom: 10px;
+}
+
+.select-input label {
+    display: block;
+    margin-bottom: 5px;
+}
+
+.select-input select {
+    width: 100%;
+    padding: 8px;
+    font-size: 16px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+}
+
+/* Style for Button */
+.btn {
+    padding: 10px 20px;
+    font-size: 16px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+.btn-icon {
+    margin-right: 5px;
+}
+
+/* Style for SearchBar */
+.search-bar {
+    width: 100%;
+    padding: 10px;
+    font-size: 16px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+}
